@@ -10,9 +10,12 @@ console.log("Welcome Again !");
 **سلام عليكم يا قلبي 
 جبت لكم افضل سيرفر سوالف 
 تنورنا يحلو
+احبك
+this is chat server
+join to server you will be happy
 love you
 
-                               [ https://discord.gg/EwrnsxW
+                               [ https://discord.gg/uUraTA3
 ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -27,12 +30,16 @@ client.on("guildMemberAdd", member => {
 سلام عليكم يا قلبي 
 جبت لكم افضل سيرفر سوالف 
 تنورنا يحلو
+احبك
+this is chat server
+join to server you will be happy
 love you
 
-                               [ https://discord.gg/EwrnsxW
+
+                               [ https://discord.gg/uUraTA3
  ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
 })
-client.login('BOT_TOKEN');
+client.login('NDY5NzIxMDU3MTk3MjkzNTY4.DlBBfA.Z_ZRmsZ8C5ZVdssna72kDqf3TOo');
