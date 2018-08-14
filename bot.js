@@ -42,4 +42,15 @@ love you
 **`) 
 }).catch(console.error)
 })
-client.login('NDY5NzIxMDU3MTk3MjkzNTY4.DlBBfA.Z_ZRmsZ8C5ZVdssna72kDqf3TOo');
+
+
+
+
+
+
+
+
+
+
+
+client.login(process.env.BOT_TOKEN);
