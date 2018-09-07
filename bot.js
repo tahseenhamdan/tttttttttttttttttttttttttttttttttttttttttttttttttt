@@ -8,14 +8,14 @@ console.log("Welcome Again !");
   return channel.send(` 
 
 **سلام عليكم يا قلبي 
-جبت لكم افضل سيرفر سوالف 
-تنورنا يحلو
-احبك
+ممكن اخطفك
+ادخل و ما تحرمنا من صوتك
+<3
 this is chat server
 join to server you will be happy
 love you
 
-                               [ https://discord.gg/BRnFcMF ]
+                               [ https://discord.gg/Cn5RSea ]
  
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
@@ -26,17 +26,17 @@ love you
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
-**
-سلام عليكم يا قلبي 
-جبت لكم افضل سيرفر سوالف 
-تنورنا يحلو
-احبك
+
+**سلام عليكم يا قلبي 
+ممكن اخطفك
+ادخل و ما تحرمنا من صوتك
+<3
 this is chat server
 join to server you will be happy
 love you
 
 
-                               [ https://discord.gg/BRnFcMF ]
+                               [ https://discord.gg/Cn5RSea ]
   
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
